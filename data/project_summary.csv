@@ -1,0 +1,2 @@
+rows,products,users,sessions,categories,category_codes,brands,first_day,last_day,days_covered,reduction_5pct_pct,reduction_10pct_pct,reduction_15pct_pct,reduction_20pct_pct,products_5pct,products_10pct,episodes_5pct,episodes_10pct,episodes_15pct,episodes_20pct,same_day_mixing_5pct_pct,strict_usable_products
+20000000,139877,1759863,4306890,580,464,2816,2019-10-01,2019-10-15,15,6.84,4.0,2.58,1.71,741,460,772,477,310,204,1.31,0
